@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abolkog/tic-tac-toe-online.git"
+    "url": "git+https://github.com/ibrahem-tech/tictactoe"
   },
   "author": "Khalid Elshafie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abolkog/tic-tac-toe-online/issues"
+    "url": "https://github.com/ibrahem-tech/tictactoe/issues"
   },
-  "homepage": "https://github.com/abolkog/tic-tac-toe-online#readme"
+  "homepage": "https://github.com/ibrahem-tech/tictactoe#readme"
 }
